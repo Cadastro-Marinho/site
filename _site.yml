@@ -10,8 +10,10 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Visualizador"
-      href: http://visualizador.cadastromarinho.com
+    - text: "Mapas"
+      menu:
+        - text: "Cadastro Marinho no Atlantico Sul"
+          href: https://atlantico-sul.netlify.app/
     - text: "Links"
       href: links.html
     - text: "Sobre"
