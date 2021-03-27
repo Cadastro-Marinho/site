@@ -1,0 +1,17 @@
+---
+title: "Sobre o Projeto"
+description: |
+  Este é um projeto sem fins lucrativos criado por profissionais e acadêmicos
+  ligados à área do cadastro territorial.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Este projeto foi iniciado e está sendo mantido atualmente pelas seguintes pessoas:
+
+- [Diego Erba]()
+- [Everton Silva]()
+- [Luiz Fernando Palin Droubi](http://droubi.me)
+- [Ramiro Alberdi]()

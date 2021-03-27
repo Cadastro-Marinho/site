@@ -1,0 +1,25 @@
+---
+title: "Cadastro Marinho"
+description: |
+  Bem-vindos, amigos!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+Esta página é sobre o Cadastro Marinho na América Latina!
+
+Aqui pretendemos consolidar todas as experiências sobre o Cadastro Marinho em 
+toda a América Latina!
+
+Se você quiser saber mais sobre o projeto, conectar-se ou até mesmo 
+contribuir, [escreva para a gente!](mailto:cadastromarinho@cadastromarinho.com) 
